@@ -35,6 +35,7 @@ export default function HomePage() {
 
   return (
     <Layout>
+      SIuu
       <Banner />
       
       <div className="movie-sections">
